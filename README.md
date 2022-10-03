@@ -33,3 +33,11 @@ To get this app to work locally follow these simple example steps.
    ```
 4. Use browser and navigate to [localhost](http://localhost:3001)
 
+## License
+
+Distributed under the MIT License.
+
+## Author
+
+-Tomi Niemela 
+
