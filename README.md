@@ -13,7 +13,7 @@ Images and itemdata are originally from Amazon.com.
 ### Build with
 
 * [React.js](https://reactjs.org/) FrontEnd
-* [node.js] (https://nodejs.dev/en/) BackEnd
+* [node.js](https://nodejs.dev/en/) BackEnd
 
 frontend_dev includes react developers files. 
 
